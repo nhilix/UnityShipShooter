@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceShipProject.CSharp.Plugins", "SpaceShipProject.CSharp.Plugins.csproj", "{B5DC8ED9-7083-B29C-7387-4B8C6B59BF0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceShipProject.CSharp", "SpaceShipProject.CSharp.csproj", "{CD8D9005-C92E-E4A1-F4ED-76AE3934B5BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceShipProject.CSharp.Editor", "SpaceShipProject.CSharp.Editor.csproj", "{BDB79836-AC68-89C8-2A92-2C657616B157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5DC8ED9-7083-B29C-7387-4B8C6B59BF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DC8ED9-7083-B29C-7387-4B8C6B59BF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DC8ED9-7083-B29C-7387-4B8C6B59BF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DC8ED9-7083-B29C-7387-4B8C6B59BF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8D9005-C92E-E4A1-F4ED-76AE3934B5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8D9005-C92E-E4A1-F4ED-76AE3934B5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8D9005-C92E-E4A1-F4ED-76AE3934B5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8D9005-C92E-E4A1-F4ED-76AE3934B5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB79836-AC68-89C8-2A92-2C657616B157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB79836-AC68-89C8-2A92-2C657616B157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB79836-AC68-89C8-2A92-2C657616B157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB79836-AC68-89C8-2A92-2C657616B157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
